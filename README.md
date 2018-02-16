@@ -3,5 +3,6 @@ Academic-Exercises (Python v 3.*)
 A collection of exercises:
 
 - List manipulation
-- Sorting Algorithms
-- Tic Tac Toe
+- Sorting algorithms
+- Tictactoe
+- Count down game
