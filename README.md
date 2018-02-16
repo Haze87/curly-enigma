@@ -4,3 +4,4 @@ A collection of exercises:
 
 - List manipulation
 - Sorting Algorithms
+- Tic Tac Toe
